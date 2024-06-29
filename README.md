@@ -24,10 +24,6 @@ Changing Grid Size: Click the "Change Grid Size" button to enter a new number of
 Installation
 There's no specific installation required to run this project locally. Simply clone the repository or download the files and open index.html in your web browser.
 
-bash
-Copy code
-git clone https://github.com/your-username/etch-a-sketch.git
-cd etch-a-sketch
 Contributing
 Contributions are welcome! Fork the repository and create a pull request with your improvements.
 
